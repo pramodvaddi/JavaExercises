@@ -10,7 +10,7 @@ class Human {
 
     // creating a constructor for class Human
     Human() {
-        name = "Pramod";
+        name = "Pramod Vaddiraju";
         birthYear = 1990;
     }
 }
